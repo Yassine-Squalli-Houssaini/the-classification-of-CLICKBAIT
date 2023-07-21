@@ -113,6 +113,6 @@ We can see that the results obtained with cross-validation are better.
 
 ## Conclusion
 
-In conclusion, this project highlights the effectiveness of machine learning approaches for clickbait title classification. We have explored different text preprocessing techniques, extracted relevant features, and trained multiple classification models. The results demonstrate the importance of choosing the right approach to address the clickbait classification problem.
+In conclusion, this project highlights the effectiveness of machine learning approaches for clickbait title classification. We have explored different text preprocessing techniques, extracted relevant features, and trained multiple classification models. The results demonstrate the importance of choosing the right approach to address the clickbait classification problem .
 
 
